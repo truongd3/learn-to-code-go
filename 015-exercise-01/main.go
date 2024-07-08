@@ -25,4 +25,7 @@ func main() {
 	Try something different.
 	Surrender.
 	`)
+
+	// Control + Cmd + Space
+	fmt.Println("🤬🥳")
 }
